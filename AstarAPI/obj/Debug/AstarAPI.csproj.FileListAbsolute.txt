@@ -1,0 +1,15 @@
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\bin\Debug\AstarAPI.dll
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\bin\Debug\AstarAPI.pdb
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\bin\Debug\UnityEngine.dll
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\bin\Debug\UnityEngine.xml
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\obj\Debug\AstarAPI.csproj.CoreCompileInputs.cache
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\obj\Debug\AstarAPI.csproj.CopyComplete
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\obj\Debug\AstarAPI.dll
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\obj\Debug\AstarAPI.pdb
+C:\Users\bruh\Documents\Astar API\Assets\AstarAPI.dll
+C:\Users\bruh\Documents\Astar API\Assets\AstarAPI.pdb
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\obj\Debug\AstarAPI.csproj.AssemblyReference.cache
+C:\Users\bruh\Documents\Astar API\Assets\AstarAPI.dll.dll
+C:\Users\bruh\Documents\Astar API\Assets\AstarAPI.dll.pdb
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\obj\Debug\AstarAPI.dll.dll
+C:\Users\bruh\source\repos\AstarAPI\AstarAPI\obj\Debug\AstarAPI.dll.pdb
